@@ -38,6 +38,7 @@ public class Test {
         mul(x, y);
         div(x, y);
         System.out.println("hihihi this is about 3rd trigger");
+        System.out.println("hihi");
     }
 }
 
