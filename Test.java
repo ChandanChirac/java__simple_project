@@ -37,9 +37,7 @@ public class Test {
         sub(x, y);
         mul(x, y);
         div(x, y);
-        System.out.println("ppppp");
-        System.out.println("hi '3 rd triigerethis is pollscm");
-            System.out.println("3rd trigger");
+        System.out.println("hihihi this is about 3rd trigger");
     }
 }
 
