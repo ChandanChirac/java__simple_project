@@ -39,7 +39,6 @@ public class Test {
         div(x, y);
         System.out.println("hihihi this is about 3rd trigger");
         System.out.println("hihi");
-        System.out.println("hi");
     }
 }
 
